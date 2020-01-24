@@ -30,3 +30,5 @@ You can mount a folder as a volume when the container is run.  Simply mount over
 ```
 docker run -p 8090:8090 -v C:/Users/username/sites/mysite/www:/www/ express-site
 ```
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
